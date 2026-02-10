@@ -1,296 +1,296 @@
-File_name,Original_audio,Playback device,Recorded device ,Distance,Angular orientation,Acoustic,Degree of Replay,,,
-0_it1.wav,0.wav,1,2,4m,0 deg,room with fan,0,,,https://docs.google.com/document/d/1c_jlXeciPiVdfUKmbtwKLYM6K1f90p-x6-SCD-1u-qw/edit?usp=sharing
-0_it2.wav,0.wav,1,2,4.61m,30 deg,room with fan,0,,,
-0_it3.wav,0_it1.aac,4,2,4m,0 deg,silent room,1,,,
-0_it4.wav,0.wav,4,2,4m,0 deg,silent room,0,,,
-0_it5.wav,0.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-0_it6.wav,0.wav,5,1,2m ,0 deg,silent room,0,,,
-1_it1.wav,1.wav,1,2,4m,0 deg,room with fan,0,,,
-1_it2.wav,1.wav,1,2,4.61m,30 deg,room with fan,0,,,
-1_it3.wav,1_it1.aac,4,2,4m,0 deg,silent room,1,,,
-1_it4.wav,1.wav,4,2,4m,0 deg,silent room,0,,,
-1_it5.wav,1.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-1_it6.wav,1.wav,5,1,2m ,0 deg,silent room,0,,,
-10_it1.wav,10.wav,1,2,4m,0 deg,room with fan,0,,,
-10_it2.wav,10.wav,1,2,4.61m,30 deg,room with fan,0,,,
-10_it3.wav,10_it1.aac,4,2,4m,0 deg,silent room,1,,,
-10_it4.wav,10.wav,4,2,4m,0 deg,silent room,0,,,
-10_it5.wav,10.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-10_it6.wav,10.wav,5,1,2m ,0 deg,silent room,0,,,
-101_it1.wav,101.wav,4,2,4m,0 deg,room with bg noise,0,,,
-101_it2.wav,101.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-101_it3.wav,101.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-101_it4.wav,101.wav,5,1,2m ,0 deg,silent room,0,,,
-101_it5.wav,101_it1.wav,4,2,4m,0 deg,silent room,1,,,
-103_it1.wav,103.wav,4,2,4m,0 deg,room with bg noise,0,,,
-103_it2.wav,103.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-103_it3.wav,103.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-103_it4.wav,103.wav,5,1,2m ,0 deg,silent room,0,,,
-103_it5.wav,103_it1.wav,4,2,4m,0 deg,silent room,1,,,
-104_it1.wav,104.wav,4,2,4m,0 deg,room with bg noise,0,,,
-104_it2.wav,104.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-104_it3.wav,104.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-104_it4.wav,104.wav,5,1,2m ,0 deg,silent room,0,,,
-104_it5.wav,104_it1.wav,4,2,4m,0 deg,silent room,1,,,
-106_it1.wav,106.wav,4,2,4m,0 deg,room with bg noise,0,,,
-106_it2.wav,106.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-106_it3.wav,106.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-106_it4.wav,106.wav,5,1,2m ,0 deg,silent room,0,,,
-106_it5.wav,106_it1.wav,4,2,4m,0 deg,silent room,1,,,
-107_it1.wav,107.wav,4,2,4m,0 deg,room with bg noise,0,,,
-107_it2.wav,107.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-107_it3.wav,107.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-107_it4.wav,107.wav,5,1,2m ,0 deg,silent room,0,,,
-107_it5.wav,107_it1.wav,4,2,4m,0 deg,silent room,1,,,
-109_it1.wav,109.wav,4,2,4.m,0 deg,room with bg noise,0,,,
-109_it2.wav,109.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-109_it3.wav,109.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-109_it4.wav,109.wav,5,1,2m ,0 deg,silent room,0,,,
-109_it5.wav,109_it1.wav,4,2,4m,0 deg,silent room,1,,,
-11_it1.wav,11.wav,1,2,4m,0 deg,room with fan,0,,,
-11_it2.wav,11.wav,1,2,4.61m,30 deg,room with fan,0,,,
-11_it3.wav,11_it1.aac,4,2,4m,0 deg,silent room,1,,,
-11_it4.wav,11.wav,4,2,4m,0 deg,silent room,0,,,
-11_it5.wav,11.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-11_it6.wav,11.wav,5,1,2m ,0 deg,silent room,0,,,
-111_it1.wav,111.wav,4,2,4m,0 deg,room with bg noise,0,,,
-111_it2.wav,111.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-111_it3.wav,111.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-111_it4.wav,111.wav,5,1,2m ,0 deg,silent room,0,,,
-111_it5.wav,111_it1.wav,4,2,4m,0 deg,silent room,1,,,
-116_it1.wav,116.wav,4,2,4m,0 deg,room with bg noise,0,,,
-116_it2.wav,116.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-116_it3.wav,116.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-116_it4.wav,116.wav,5,1,2m ,0 deg,silent room,0,,,
-116_it5.wav,116_it1.wav,4,2,4m,0 deg,silent room,1,,,
-118_it1.wav,118.wav,4,2,4m,0 deg,room with bg noise,0,,,
-118_it2.wav,118.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-118_it5.wav,118_it1.wav,4,2,4m,0 deg,silent room,1,,,
-119_it1.wav,119.wav,4,2,4m,0 deg,room with bg noise,0,,,
-119_it2.wav,119.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-119_it3.wav,119.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-119_it4.wav,119.wav,5,1,2m ,0 deg,silent room,0,,,
-119_it5.wav,119_it1.wav,4,2,4m,0 deg,silent room,1,,,
-121_it1.wav,121.wav,4,2,4m,0 deg,room with bg noise,0,,,
-121_it2.wav,121.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-121_it3.wav,121.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-121_it4.wav,121.wav,5,1,2m ,0 deg,silent room,0,,,
-121_it5.wav,121_it1.wav,4,2,4m,0 deg,silent room,1,,,
-125_it1.wav,125.wav,4,2,4m,0 deg,room with bg noise,0,,,
-125_it2.wav,125.wav,4,2,4.61m, 30 deg,room with bg noise,0,,,
-125_it3.wav,125.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-125_it4.wav,125.wav,5,1,2m ,0 deg,silent room,0,,,
-125_it5.wav,125_it1.wav,4,2,4m,0 deg,silent room,1,,,
-129_it1.wav,129.wav,4,2,4m,0 deg,room with bg noise,0,,,
-129_it2.wav,129.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-129_it3.wav,129.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-129_it4.wav,129.wav,5,1,2m ,0 deg,silent room,0,,,
-129_it5.wav,129_it1.wav,4,2,4m,0 deg,silent room,1,,,
-13_it1.wav,13.wav,1,2,4m,0 deg,room with fan,0,,,
-13_it2.wav,13.wav,1,2,4.61m,30 deg,room with fan,0,,,
-13_it3.wav,13_it1.aac,4,2,4m,0 deg,silent room,1,,,
-13_it4.wav,13.wav,4,2,4m,0 deg,silent room,0,,,
-13_it5.wav,13.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-13_it6.wav,13.wav,5,1,2m ,0 deg,silent room,0,,,
-130_it1.wav,130.wav,4,2,4m,0 deg,room with bg noise,0,,,
-130_it2.wav,130.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-130_it3.wav,130.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-130_it4.wav,130.wav,5,1,2m ,0 deg,silent room,0,,,
-130_it5.wav,130_it1.wav,4,2,4m,0 deg,silent room,1,,,
-134_it1.wav,134.wav,4,2,4m,0 deg,room with bg noise,0,,,
-134_it2.wav,134.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-134_it3.wav,134.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-134_it4.wav,134.wav,5,1,2m ,0 deg,silent room,0,,,
-134_it5.wav,134_it1.wav,4,2,4m,0 deg,silent room,1,,,
-138_it1.wav,138.wav,4,2,4m,0 deg,room with bg noise,0,,,
-138_it2.wav,138.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-138_it3.wav,138.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-138_it4.wav,138.wav,5,1,2m ,0 deg,silent room,0,,,
-138_it5.wav,138_it1.wav,4,2,4m,0 deg,silent room,1,,,
-145_it1.wav,145.wav,4,2,4m,0 deg,room with bg noise,0,,,
-145_it2.wav,145.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-145_it3.wav,145.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-145_it4.wav,145.wav,5,1,2m ,0 deg,silent room,0,,,
-145_it5.wav,145_it1.wav,4,2,4m,0 deg,silent room,1,,,
-148_it1.wav,148.wav,4,2,4m,0 deg,room with bg noise,0,,,
-148_it2.wav,148.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-148_it3.wav,148.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-148_it4.wav,148.wav,5,1,2m ,0 deg,silent room,0,,,
-148_it5.wav,148_it1.wav,4,2,4m,0 deg,silent room,1,,,
-155_it1.wav,155.wav,4,2,4m,0 deg,room with bg noise,0,,,
-155_it2.wav,155.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-155_it3.wav,155.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-155_it4.wav,155.wav,5,1,2m ,0 deg,silent room,0,,,
-155_it5.wav,155_it1.wav,4,2,4m,0 deg,silent room,1,,,
-16_it1.wav,16.wav,1,2,4m,0 deg,room with fan,0,,,
-16_it2.wav,16.wav,1,2,4.61m,30 deg,room with fan,0,,,
-16_it3.wav,16_it1.aac,4,2,4m,0 deg,silent room,1,,,
-16_it4.wav,16.wav,4,2,4m,0 deg,silent room,0,,,
-16_it5.wav,16.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-16_it6.wav,16.wav,5,1,2m ,0 deg,silent room,0,,,
-164_it1.wav,164.wav,4,2,4m,0 deg,room with bg noise,0,,,
-164_it2.wav,164.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-164_it3.wav,164.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-164_it4.wav,164.wav,5,1,2m ,0 deg,silent room,0,,,
-164_it5.wav,164_it1.wav,4,2,4m,0 deg,silent room,1,,,
-17_it1.wav,17.wav,1,2,4m,0 deg,room with fan,0,,,
-17_it2.wav,17.wav,1,2,4.61m,30 deg,room with fan,0,,,
-17_it3.wav,17_it1.aac,4,2,4m,0 deg,silent room,1,,,
-17_it4.wav,17.wav,4,2,4m,0 deg,silent room,0,,,
-17_it5.wav,17.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-17_it6.wav,17.wav,5,1,2m ,0 deg,silent room,0,,,
-18_it1.wav,18.wav,1,2,4m,0 deg,silent room,0,,,
-18_it2.wav,18.wav,1,2,4.61m,30 deg,room with fan,0,,,
-18_it3.wav,18_it1.wav,4,2,4m,0 deg,silent room,1,,,
-18_it4.wav,18.wav,4,2,4m,0 deg,silent room,0,,,
-18_it5.wav,18.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-18_it6.wav,18.wav,5,1,2m ,0 deg,silent room,0,,,
-20_it1.wav,20.wav,1,2,4m,0 deg,room with fan,0,,,
-20_it2.wav,20.wav,1,2,4.61m,30 deg,room with fan,0,,,
-20_it3.wav,20_it1.aac,4,2,4m,0 deg,silent room,1,,,
-20_it4.wav,20.wav,4,2,4m,0 deg,silent room,0,,,
-20_it5.wav,20.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-20_it6.wav,20.wav,5,1,2m ,0 deg,silent room,0,,,
-21_it1.wav,21.wav,3,2,4m,0 deg,silent room,0,,,
-21_it2.wav,21.wav,3,2,4.61m,30 deg,silent room,0,,,
-21_it3.wav,21_it1.aac,4,2,4m,0 deg,silent room,1,,,
-21_it4.wav,21.wav,4,2,4m,0 deg,silent room,0,,,
-21_it5.wav,21.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-21_it6.wav,21.wav,5,1,2m ,0 deg,silent room,0,,,
-22_it1.wav,22.wav,3,2,4m,0 deg,silent room,0,,,
-22_it2.wav,22.wav,3,2,4.61m,30 deg,silent room,0,,,
-22_it3.wav,22_it1.aac,4,2,4m,0 deg,silent room,1,,,
-22_it4.wav,22.wav,4,2,4m,0 deg,silent room,0,,,
-22_it5.wav,22.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-22_it6.wav,22.wav,5,1,2m ,0 deg,silent room,0,,,
-27_it1.wav,27.wav,3,2,4m,0 deg,silent room,0,,,
-27_it2.wav,27.wav,3,2,4.61m,30 deg,silent room,0,,,
-27_it3.wav,27_it1.aac,4,2,4m,0 deg,silent room,1,,,
-27_it4.wav,27.wav,4,2,4m,0 deg,silent room,0,,,
-27_it5.wav,27.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-27_it6.wav,27.wav,5,1,2m ,0 deg,silent room,0,,,
-30_it1.wav,30.wav,3,2,4m,0 deg,silent room,0,,,
-30_it2.wav,30.wav,3,2,4.61m,30 deg,silent room,0,,,
-30_it3.wav,30_it1.aac,4,2,4m,0 deg,silent room,1,,,
-30_it4.wav,30.wav,4,2,4m,0 deg,silent room,0,,,
-30_it5.wav,30.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-30_it6.wav,30.wav,5,1,2m ,0 deg,silent room,0,,,
-34_it1.wav,34.wav,3,2,4m,0 deg,silent room,0,,,
-34_it2.wav,34.wav,3,2,4.61m,30 deg,silent room,0,,,
-34_it3.wav,34_it1.aac,4,2,4m,0 deg,silent room,0,,,
-34_it4.wav,34_it1.aac,4,2,4m,0 deg,silent room,1,,,
-34_it4.wav,34.wav,4,2,4m,0 deg,silent room,0,,,
-34_it5.wav,34.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-34_it6.wav,34.wav,5,1,2m ,0 deg,silent room,0,,,
-42_it1.wav,42.wav,3,2,4m,0 deg,silent room,0,,,
-42_it2.wav,42.wav,3,2,4.61m,30 deg,silent room,0,,,
-42_it3.wav,42_it1.aac,4,2,4m,0 deg,silent room,0,,,
-42_it4.wav,42.wav,4,2,4m,0 deg,silent room,0,,,
-42_it5.wav,42.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-42_it6.wav,42.wav,5,1,2m ,0 deg,silent room,0,,,
-51_it1.wav,51.wav,3,2,4m,0 deg,silent room,0,,,
-51_it2.wav,51.wav,3,2,4.61m,30 deg,silent room,0,,,
-51_it3.wav,51_it1.aac,4,2,4m,0 deg,silent room,1,,,
-51_it4.wav,51.wav,4,2,4m,0 deg,silent room,0,,,
-51_it5.wav,51.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-51_it6.wav,51.wav,5,1,2m ,0 deg,silent room,0,,,
-54_it1.wav,54.wav,4,2,4m,0 deg,silent room,0,,,
-54_it2.wav,54.wav,4,2,4.61m,30 deg,silent room,0,,,
-54_it3.wav,54_it1.aac,4,2,4m,0 deg,silent room,0,,,
-54_it5.wav,54.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-54_it6.wav,54.wav,5,1,2m ,0 deg,silent room,0,,,
-55_it1.wav,55.wav,4,2,4m,0 deg,silent room,0,,,
-55_it2.wav,55.wav,4,2,4.61m,30 deg,silent room,0,,,
-55_it3.wav,55_it1.aac,4,2,4m,0 deg,silent room,1,,,
-55_it5.wav,55.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-55_it6.wav,55.wav,5,1,2m ,0 deg,silent room,0,,,
-56_it1.wav,56.wav,4,2,4m,0 deg,silent room,0,,,
-56_it2.wav,56.wav,4,2,4.61m,30 deg,silent room,0,,,
-56_it3.wav,56_it1.wav,4,2,4m,0 deg,silent room,1,,,
-56_it3.wav,56_it1.wav,4,2,4m,0 deg,silent room,1,,,
-56_it5.wav,56.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-56_it6.wav,56.wav,5,1,2m ,0 deg,silent room,0,,,
-57_it1.wav,57.wav,4,2,4m,0 deg,silent room,0,,,
-57_it2.wav,57.wav,4,2,4.61m,30 deg,silent room,0,,,
-57_it3.wav,57_it1.wav,4,2,4m,0 deg,silent room,1,,,
-57_it5.wav,57.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-58_it1.wav,58.wav,4,2,4m,0 deg,silent room,0,,,
-58_it2.wav,58.wav,4,2,4.61m,30 deg,silent room,0,,,
-58_it3.wav,58_it1.wav,4,2,4m,0 deg,silent room,1,,,
-59_it1.wav,59.wav,4,2,4m,0 deg,silent room,0,,,
-59_it2.wav,59.wav,4,2,4.61m,30 deg,silent room,0,,,
-59_it3.wav,59_it1.wav,4,2,4m,0 deg,silent room,1,,,
-62_it1.wav,62.wav,4,2,4m,0 deg,silent room,0,,,
-62_it2.wav,62.wav,4,2,4.61m,30 deg,silent room,0,,,
-62_it3.wav,62_it1.wav,4,2,4m,0 deg,silent room,1,,,
-62_it5.wav,62.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-62_it6.wav,62.wav,5,1,2m ,0 deg,silent room,0,,,
-63_it1.wav,63.wav,4,2,4m,0 deg,silent room,0,,,
-63_it2.wav,63.wav,4,2,4.61m,30 deg,silent room,0,,,
-63_it3.wav,63_it1.wav,4,2,4m,0 deg,silent room,1,,,
-63_it5.wav,63.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-63_it6.wav,63.wav,5,1,2m ,0 deg,silent room,0,,,
-,,,,,,,,,,
-68_it1.wav,68.wav,4,2,4m,0 deg,silent room,0,,,
-68_it2.wav,68.wav,4,2,4.61m,30 deg,silent room,0,,,
-68_it3.wav,68_it1.wav,4,2,4m,0 deg,silent room,1,,,
-68_it5.wav,68.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-68_it6.wav,68.wav,5,1,2m ,0 deg,silent room,0,,,
-70_it1.wav,70.wav,4,2,4m,0 deg,silent room,0,,,
-70_it2.wav,70.wav,4,2,4.61m,30 deg,silent room,0,,,
-70_it3.wav,70_it1.wav,4,2,4m,0 deg,silent room,1,,,
-70_it5.wav,70.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-70_it6.wav,70.wav,5,1,2m ,0 deg,silent room,0,,,
-71_it1.wav,71.wav,4,2,4m,0 deg,silent room,0,,,
-71_it2.wav,71.wav,4,2,4.61m,30 deg,silent room,0,,,
-71_it3.wav,71_it1.wav,4,2,4m,0 deg,silent room,1,,,
-71_it5.wav,71.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-71_it6.wav,71.wav,5,1,2m ,0 deg,silent room,0,,,
-73_it1.wav,72.wav,4,2,4m,0 deg,silent room,0,,,
-73_it2.wav,72.wav,4,2,4.61m,30 deg,silent room,0,,,
-73_it3.wav,73_it1.wav,4,2,4m,0 deg,silent room,1,,,
-73_it5.wav,73.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-73_it6.wav,73.wav,5,1,2m ,0 deg,silent room,0,,,
-74_it1.wav,73.wav,4,2,4m,0 deg,silent room,0,,,
-74_it2.wav,73.wav,4,2,4.61m,30 deg,silent room,0,,,
-74_it3.wav,74_it1.wav,4,2,4m,0 deg,silent room,1,,,
-74_it5.wav,74.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-74_it6.wav,74.wav,5,1,2m ,0 deg,silent room,0,,,
-76_it1.wav,76.wav,4,2,4m,0 deg,silent room,0,,,
-76_it2.wav,76.wav,4,2,4.61m,30 deg,silent room,0,,,
-76_it3.wav,76_it1.wav,4,2,4m,0 deg,silent room,1,,,
-76_it5.wav,76.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-76_it6.wav,76.wav,5,1,2m ,0 deg,silent room,0,,,
-,,,,,,,,,,
-77_it1.wav,77.wav,4,2,4m, 0 deg,silent room,0,,,
-77_it2.wav,77.wav,4,2,4.61m,30 deg,silent room,0,,,
-77_it3.wav,77_it1.wav,4,2,4m,0 deg,silent room,1,,,
-77_it5.wav,77.wav,5,7,2m ,0 deg,room with bg noise,0,,,
-77_it6.wav,77.wav,5,1,2m ,0 deg,silent room,0,,,
-81_it1.wav,81.wav,4,2,4m,0 deg,room with bg noise,0,,,
-81_it2.wav,81.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-81_it3.wav,81.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-81_it4.wav,81.wav,5,1,2m ,0 deg,silent room,0,,,
-81_it5.wav,81_it1.wav,4,2,4m,0 deg,silent room,1,,,
-82_it1.wav,82.wav,4,2,4m,0 deg,silent troom,0,,,
-82_it2.wav,82.wav,4,2,4m,30 deg,silent room,0,,,
-82_it3.wav,81.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-82_it5.wav,82_it1.wav,4,2,4m,0 deg,silent room,1,,,
-91_it1.wav,91.wav,4,2,4m,0 deg,room with bg noise,0,,,
-91_it3.wav,91.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-91_it4.wav,91.wav,5,1,2m ,0 deg,silent room,0,,,
-91_it5.wav,91_it1.wav,4,2,4m,0 deg,silent room,1,,,
-92_it1.wav,92.wav,4,2,4m,0 deg,room with bg noise,0,,,
-92_it2.wav,92.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-92_it4.wav,92.wav,5,1,2m ,0 deg,silent room,0,,,
-92_it5.wav,92_it1.wav,4,2,4m,0 deg,silent room,1,,,
-93_it1.wav,93.wav,4,2,4m,0 deg,room with bg noise,0,,,
-93_it2.wav,93.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-93_it3.wav,93.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-93_it4.wav,93.wav,5,1,2m ,0 deg,silent room,0,,,
-93_it5.wav,93_it1.wav,4,2,4m,0 deg,silent room,1,,,
-96_it1.wav,96.wav,4,2,4m,0 deg,room with bg noise,0,,,
-96_it2.wav,96.wav,4,2,4.61m,30 deg,room with bg noise,0,,,
-96_it3.wav,96.wav,5,6,2m ,0 deg,room with bg noise,0,,,
-96_it4.wav,96.wav,5,1,2m ,0 deg,silent room,0,,,
-96_it5.wav,96_it1.wav,4,2,4m,0 deg,silent room,1,,,
+File_name,Original_audio,Playback device,Recorded device ,Distance,Angular orientation,Acoustic,Degree of Replay
+0_it1.wav,0.wav,1,2,4m,0 deg,room with fan,0
+0_it2.wav,0.wav,1,2,4.61m,30 deg,room with fan,0
+0_it3.wav,0_it1.aac,4,2,4m,0 deg,silent room,1
+0_it4.wav,0.wav,4,2,4m,0 deg,silent room,0
+0_it5.wav,0.wav,5,7,2m ,0 deg,room with bg noise,0
+0_it6.wav,0.wav,5,1,2m ,0 deg,silent room,0
+1_it1.wav,1.wav,1,2,4m,0 deg,room with fan,0
+1_it2.wav,1.wav,1,2,4.61m,30 deg,room with fan,0
+1_it3.wav,1_it1.aac,4,2,4m,0 deg,silent room,1
+1_it4.wav,1.wav,4,2,4m,0 deg,silent room,0
+1_it5.wav,1.wav,5,7,2m ,0 deg,room with bg noise,0
+1_it6.wav,1.wav,5,1,2m ,0 deg,silent room,0
+10_it1.wav,10.wav,1,2,4m,0 deg,room with fan,0
+10_it2.wav,10.wav,1,2,4.61m,30 deg,room with fan,0
+10_it3.wav,10_it1.aac,4,2,4m,0 deg,silent room,1
+10_it4.wav,10.wav,4,2,4m,0 deg,silent room,0
+10_it5.wav,10.wav,5,7,2m ,0 deg,room with bg noise,0
+10_it6.wav,10.wav,5,1,2m ,0 deg,silent room,0
+101_it1.wav,101.wav,4,2,4m,0 deg,room with bg noise,0
+101_it2.wav,101.wav,4,2,4.61m,30 deg,room with bg noise,0
+101_it3.wav,101.wav,5,6,2m ,0 deg,room with bg noise,0
+101_it4.wav,101.wav,5,1,2m ,0 deg,silent room,0
+101_it5.wav,101_it1.wav,4,2,4m,0 deg,silent room,1
+103_it1.wav,103.wav,4,2,4m,0 deg,room with bg noise,0
+103_it2.wav,103.wav,4,2,4.61m,30 deg,room with bg noise,0
+103_it3.wav,103.wav,5,6,2m ,0 deg,room with bg noise,0
+103_it4.wav,103.wav,5,1,2m ,0 deg,silent room,0
+103_it5.wav,103_it1.wav,4,2,4m,0 deg,silent room,1
+104_it1.wav,104.wav,4,2,4m,0 deg,room with bg noise,0
+104_it2.wav,104.wav,4,2,4.61m,30 deg,room with bg noise,0
+104_it3.wav,104.wav,5,6,2m ,0 deg,room with bg noise,0
+104_it4.wav,104.wav,5,1,2m ,0 deg,silent room,0
+104_it5.wav,104_it1.wav,4,2,4m,0 deg,silent room,1
+106_it1.wav,106.wav,4,2,4m,0 deg,room with bg noise,0
+106_it2.wav,106.wav,4,2,4.61m,30 deg,room with bg noise,0
+106_it3.wav,106.wav,5,6,2m ,0 deg,room with bg noise,0
+106_it4.wav,106.wav,5,1,2m ,0 deg,silent room,0
+106_it5.wav,106_it1.wav,4,2,4m,0 deg,silent room,1
+107_it1.wav,107.wav,4,2,4m,0 deg,room with bg noise,0
+107_it2.wav,107.wav,4,2,4.61m,30 deg,room with bg noise,0
+107_it3.wav,107.wav,5,6,2m ,0 deg,room with bg noise,0
+107_it4.wav,107.wav,5,1,2m ,0 deg,silent room,0
+107_it5.wav,107_it1.wav,4,2,4m,0 deg,silent room,1
+109_it1.wav,109.wav,4,2,4.m,0 deg,room with bg noise,0
+109_it2.wav,109.wav,4,2,4.61m,30 deg,room with bg noise,0
+109_it3.wav,109.wav,5,6,2m ,0 deg,room with bg noise,0
+109_it4.wav,109.wav,5,1,2m ,0 deg,silent room,0
+109_it5.wav,109_it1.wav,4,2,4m,0 deg,silent room,1
+11_it1.wav,11.wav,1,2,4m,0 deg,room with fan,0
+11_it2.wav,11.wav,1,2,4.61m,30 deg,room with fan,0
+11_it3.wav,11_it1.aac,4,2,4m,0 deg,silent room,1
+11_it4.wav,11.wav,4,2,4m,0 deg,silent room,0
+11_it5.wav,11.wav,5,7,2m ,0 deg,room with bg noise,0
+11_it6.wav,11.wav,5,1,2m ,0 deg,silent room,0
+111_it1.wav,111.wav,4,2,4m,0 deg,room with bg noise,0
+111_it2.wav,111.wav,4,2,4.61m,30 deg,room with bg noise,0
+111_it3.wav,111.wav,5,6,2m ,0 deg,room with bg noise,0
+111_it4.wav,111.wav,5,1,2m ,0 deg,silent room,0
+111_it5.wav,111_it1.wav,4,2,4m,0 deg,silent room,1
+116_it1.wav,116.wav,4,2,4m,0 deg,room with bg noise,0
+116_it2.wav,116.wav,4,2,4.61m,30 deg,room with bg noise,0
+116_it3.wav,116.wav,5,6,2m ,0 deg,room with bg noise,0
+116_it4.wav,116.wav,5,1,2m ,0 deg,silent room,0
+116_it5.wav,116_it1.wav,4,2,4m,0 deg,silent room,1
+118_it1.wav,118.wav,4,2,4m,0 deg,room with bg noise,0
+118_it2.wav,118.wav,4,2,4.61m,30 deg,room with bg noise,0
+118_it5.wav,118_it1.wav,4,2,4m,0 deg,silent room,1
+119_it1.wav,119.wav,4,2,4m,0 deg,room with bg noise,0
+119_it2.wav,119.wav,4,2,4.61m,30 deg,room with bg noise,0
+119_it3.wav,119.wav,5,6,2m ,0 deg,room with bg noise,0
+119_it4.wav,119.wav,5,1,2m ,0 deg,silent room,0
+119_it5.wav,119_it1.wav,4,2,4m,0 deg,silent room,1
+121_it1.wav,121.wav,4,2,4m,0 deg,room with bg noise,0
+121_it2.wav,121.wav,4,2,4.61m,30 deg,room with bg noise,0
+121_it3.wav,121.wav,5,6,2m ,0 deg,room with bg noise,0
+121_it4.wav,121.wav,5,1,2m ,0 deg,silent room,0
+121_it5.wav,121_it1.wav,4,2,4m,0 deg,silent room,1
+125_it1.wav,125.wav,4,2,4m,0 deg,room with bg noise,0
+125_it2.wav,125.wav,4,2,4.61m, 30 deg,room with bg noise,0
+125_it3.wav,125.wav,5,6,2m ,0 deg,room with bg noise,0
+125_it4.wav,125.wav,5,1,2m ,0 deg,silent room,0
+125_it5.wav,125_it1.wav,4,2,4m,0 deg,silent room,1
+129_it1.wav,129.wav,4,2,4m,0 deg,room with bg noise,0
+129_it2.wav,129.wav,4,2,4.61m,30 deg,room with bg noise,0
+129_it3.wav,129.wav,5,6,2m ,0 deg,room with bg noise,0
+129_it4.wav,129.wav,5,1,2m ,0 deg,silent room,0
+129_it5.wav,129_it1.wav,4,2,4m,0 deg,silent room,1
+13_it1.wav,13.wav,1,2,4m,0 deg,room with fan,0
+13_it2.wav,13.wav,1,2,4.61m,30 deg,room with fan,0
+13_it3.wav,13_it1.aac,4,2,4m,0 deg,silent room,1
+13_it4.wav,13.wav,4,2,4m,0 deg,silent room,0
+13_it5.wav,13.wav,5,7,2m ,0 deg,room with bg noise,0
+13_it6.wav,13.wav,5,1,2m ,0 deg,silent room,0
+130_it1.wav,130.wav,4,2,4m,0 deg,room with bg noise,0
+130_it2.wav,130.wav,4,2,4.61m,30 deg,room with bg noise,0
+130_it3.wav,130.wav,5,6,2m ,0 deg,room with bg noise,0
+130_it4.wav,130.wav,5,1,2m ,0 deg,silent room,0
+130_it5.wav,130_it1.wav,4,2,4m,0 deg,silent room,1
+134_it1.wav,134.wav,4,2,4m,0 deg,room with bg noise,0
+134_it2.wav,134.wav,4,2,4.61m,30 deg,room with bg noise,0
+134_it3.wav,134.wav,5,6,2m ,0 deg,room with bg noise,0
+134_it4.wav,134.wav,5,1,2m ,0 deg,silent room,0
+134_it5.wav,134_it1.wav,4,2,4m,0 deg,silent room,1
+138_it1.wav,138.wav,4,2,4m,0 deg,room with bg noise,0
+138_it2.wav,138.wav,4,2,4.61m,30 deg,room with bg noise,0
+138_it3.wav,138.wav,5,6,2m ,0 deg,room with bg noise,0
+138_it4.wav,138.wav,5,1,2m ,0 deg,silent room,0
+138_it5.wav,138_it1.wav,4,2,4m,0 deg,silent room,1
+145_it1.wav,145.wav,4,2,4m,0 deg,room with bg noise,0
+145_it2.wav,145.wav,4,2,4.61m,30 deg,room with bg noise,0
+145_it3.wav,145.wav,5,6,2m ,0 deg,room with bg noise,0
+145_it4.wav,145.wav,5,1,2m ,0 deg,silent room,0
+145_it5.wav,145_it1.wav,4,2,4m,0 deg,silent room,1
+148_it1.wav,148.wav,4,2,4m,0 deg,room with bg noise,0
+148_it2.wav,148.wav,4,2,4.61m,30 deg,room with bg noise,0
+148_it3.wav,148.wav,5,6,2m ,0 deg,room with bg noise,0
+148_it4.wav,148.wav,5,1,2m ,0 deg,silent room,0
+148_it5.wav,148_it1.wav,4,2,4m,0 deg,silent room,1
+155_it1.wav,155.wav,4,2,4m,0 deg,room with bg noise,0
+155_it2.wav,155.wav,4,2,4.61m,30 deg,room with bg noise,0
+155_it3.wav,155.wav,5,6,2m ,0 deg,room with bg noise,0
+155_it4.wav,155.wav,5,1,2m ,0 deg,silent room,0
+155_it5.wav,155_it1.wav,4,2,4m,0 deg,silent room,1
+16_it1.wav,16.wav,1,2,4m,0 deg,room with fan,0
+16_it2.wav,16.wav,1,2,4.61m,30 deg,room with fan,0
+16_it3.wav,16_it1.aac,4,2,4m,0 deg,silent room,1
+16_it4.wav,16.wav,4,2,4m,0 deg,silent room,0
+16_it5.wav,16.wav,5,7,2m ,0 deg,room with bg noise,0
+16_it6.wav,16.wav,5,1,2m ,0 deg,silent room,0
+164_it1.wav,164.wav,4,2,4m,0 deg,room with bg noise,0
+164_it2.wav,164.wav,4,2,4.61m,30 deg,room with bg noise,0
+164_it3.wav,164.wav,5,6,2m ,0 deg,room with bg noise,0
+164_it4.wav,164.wav,5,1,2m ,0 deg,silent room,0
+164_it5.wav,164_it1.wav,4,2,4m,0 deg,silent room,1
+17_it1.wav,17.wav,1,2,4m,0 deg,room with fan,0
+17_it2.wav,17.wav,1,2,4.61m,30 deg,room with fan,0
+17_it3.wav,17_it1.aac,4,2,4m,0 deg,silent room,1
+17_it4.wav,17.wav,4,2,4m,0 deg,silent room,0
+17_it5.wav,17.wav,5,7,2m ,0 deg,room with bg noise,0
+17_it6.wav,17.wav,5,1,2m ,0 deg,silent room,0
+18_it1.wav,18.wav,1,2,4m,0 deg,silent room,0
+18_it2.wav,18.wav,1,2,4.61m,30 deg,room with fan,0
+18_it3.wav,18_it1.wav,4,2,4m,0 deg,silent room,1
+18_it4.wav,18.wav,4,2,4m,0 deg,silent room,0
+18_it5.wav,18.wav,5,7,2m ,0 deg,room with bg noise,0
+18_it6.wav,18.wav,5,1,2m ,0 deg,silent room,0
+20_it1.wav,20.wav,1,2,4m,0 deg,room with fan,0
+20_it2.wav,20.wav,1,2,4.61m,30 deg,room with fan,0
+20_it3.wav,20_it1.aac,4,2,4m,0 deg,silent room,1
+20_it4.wav,20.wav,4,2,4m,0 deg,silent room,0
+20_it5.wav,20.wav,5,7,2m ,0 deg,room with bg noise,0
+20_it6.wav,20.wav,5,1,2m ,0 deg,silent room,0
+21_it1.wav,21.wav,3,2,4m,0 deg,silent room,0
+21_it2.wav,21.wav,3,2,4.61m,30 deg,silent room,0
+21_it3.wav,21_it1.aac,4,2,4m,0 deg,silent room,1
+21_it4.wav,21.wav,4,2,4m,0 deg,silent room,0
+21_it5.wav,21.wav,5,7,2m ,0 deg,room with bg noise,0
+21_it6.wav,21.wav,5,1,2m ,0 deg,silent room,0
+22_it1.wav,22.wav,3,2,4m,0 deg,silent room,0
+22_it2.wav,22.wav,3,2,4.61m,30 deg,silent room,0
+22_it3.wav,22_it1.aac,4,2,4m,0 deg,silent room,1
+22_it4.wav,22.wav,4,2,4m,0 deg,silent room,0
+22_it5.wav,22.wav,5,7,2m ,0 deg,room with bg noise,0
+22_it6.wav,22.wav,5,1,2m ,0 deg,silent room,0
+27_it1.wav,27.wav,3,2,4m,0 deg,silent room,0
+27_it2.wav,27.wav,3,2,4.61m,30 deg,silent room,0
+27_it3.wav,27_it1.aac,4,2,4m,0 deg,silent room,1
+27_it4.wav,27.wav,4,2,4m,0 deg,silent room,0
+27_it5.wav,27.wav,5,7,2m ,0 deg,room with bg noise,0
+27_it6.wav,27.wav,5,1,2m ,0 deg,silent room,0
+30_it1.wav,30.wav,3,2,4m,0 deg,silent room,0
+30_it2.wav,30.wav,3,2,4.61m,30 deg,silent room,0
+30_it3.wav,30_it1.aac,4,2,4m,0 deg,silent room,1
+30_it4.wav,30.wav,4,2,4m,0 deg,silent room,0
+30_it5.wav,30.wav,5,7,2m ,0 deg,room with bg noise,0
+30_it6.wav,30.wav,5,1,2m ,0 deg,silent room,0
+34_it1.wav,34.wav,3,2,4m,0 deg,silent room,0
+34_it2.wav,34.wav,3,2,4.61m,30 deg,silent room,0
+34_it3.wav,34_it1.aac,4,2,4m,0 deg,silent room,0
+34_it4.wav,34_it1.aac,4,2,4m,0 deg,silent room,1
+34_it4.wav,34.wav,4,2,4m,0 deg,silent room,0
+34_it5.wav,34.wav,5,7,2m ,0 deg,room with bg noise,0
+34_it6.wav,34.wav,5,1,2m ,0 deg,silent room,0
+42_it1.wav,42.wav,3,2,4m,0 deg,silent room,0
+42_it2.wav,42.wav,3,2,4.61m,30 deg,silent room,0
+42_it3.wav,42_it1.aac,4,2,4m,0 deg,silent room,0
+42_it4.wav,42.wav,4,2,4m,0 deg,silent room,0
+42_it5.wav,42.wav,5,7,2m ,0 deg,room with bg noise,0
+42_it6.wav,42.wav,5,1,2m ,0 deg,silent room,0
+51_it1.wav,51.wav,3,2,4m,0 deg,silent room,0
+51_it2.wav,51.wav,3,2,4.61m,30 deg,silent room,0
+51_it3.wav,51_it1.aac,4,2,4m,0 deg,silent room,1
+51_it4.wav,51.wav,4,2,4m,0 deg,silent room,0
+51_it5.wav,51.wav,5,7,2m ,0 deg,room with bg noise,0
+51_it6.wav,51.wav,5,1,2m ,0 deg,silent room,0
+54_it1.wav,54.wav,4,2,4m,0 deg,silent room,0
+54_it2.wav,54.wav,4,2,4.61m,30 deg,silent room,0
+54_it3.wav,54_it1.aac,4,2,4m,0 deg,silent room,0
+54_it5.wav,54.wav,5,7,2m ,0 deg,room with bg noise,0
+54_it6.wav,54.wav,5,1,2m ,0 deg,silent room,0
+55_it1.wav,55.wav,4,2,4m,0 deg,silent room,0
+55_it2.wav,55.wav,4,2,4.61m,30 deg,silent room,0
+55_it3.wav,55_it1.aac,4,2,4m,0 deg,silent room,1
+55_it5.wav,55.wav,5,7,2m ,0 deg,room with bg noise,0
+55_it6.wav,55.wav,5,1,2m ,0 deg,silent room,0
+56_it1.wav,56.wav,4,2,4m,0 deg,silent room,0
+56_it2.wav,56.wav,4,2,4.61m,30 deg,silent room,0
+56_it3.wav,56_it1.wav,4,2,4m,0 deg,silent room,1
+56_it3.wav,56_it1.wav,4,2,4m,0 deg,silent room,1
+56_it5.wav,56.wav,5,7,2m ,0 deg,room with bg noise,0
+56_it6.wav,56.wav,5,1,2m ,0 deg,silent room,0
+57_it1.wav,57.wav,4,2,4m,0 deg,silent room,0
+57_it2.wav,57.wav,4,2,4.61m,30 deg,silent room,0
+57_it3.wav,57_it1.wav,4,2,4m,0 deg,silent room,1
+57_it5.wav,57.wav,5,7,2m ,0 deg,room with bg noise,0
+58_it1.wav,58.wav,4,2,4m,0 deg,silent room,0
+58_it2.wav,58.wav,4,2,4.61m,30 deg,silent room,0
+58_it3.wav,58_it1.wav,4,2,4m,0 deg,silent room,1
+59_it1.wav,59.wav,4,2,4m,0 deg,silent room,0
+59_it2.wav,59.wav,4,2,4.61m,30 deg,silent room,0
+59_it3.wav,59_it1.wav,4,2,4m,0 deg,silent room,1
+62_it1.wav,62.wav,4,2,4m,0 deg,silent room,0
+62_it2.wav,62.wav,4,2,4.61m,30 deg,silent room,0
+62_it3.wav,62_it1.wav,4,2,4m,0 deg,silent room,1
+62_it5.wav,62.wav,5,7,2m ,0 deg,room with bg noise,0
+62_it6.wav,62.wav,5,1,2m ,0 deg,silent room,0
+63_it1.wav,63.wav,4,2,4m,0 deg,silent room,0
+63_it2.wav,63.wav,4,2,4.61m,30 deg,silent room,0
+63_it3.wav,63_it1.wav,4,2,4m,0 deg,silent room,1
+63_it5.wav,63.wav,5,7,2m ,0 deg,room with bg noise,0
+63_it6.wav,63.wav,5,1,2m ,0 deg,silent room,0
+,,,,,,,
+68_it1.wav,68.wav,4,2,4m,0 deg,silent room,0
+68_it2.wav,68.wav,4,2,4.61m,30 deg,silent room,0
+68_it3.wav,68_it1.wav,4,2,4m,0 deg,silent room,1
+68_it5.wav,68.wav,5,7,2m ,0 deg,room with bg noise,0
+68_it6.wav,68.wav,5,1,2m ,0 deg,silent room,0
+70_it1.wav,70.wav,4,2,4m,0 deg,silent room,0
+70_it2.wav,70.wav,4,2,4.61m,30 deg,silent room,0
+70_it3.wav,70_it1.wav,4,2,4m,0 deg,silent room,1
+70_it5.wav,70.wav,5,7,2m ,0 deg,room with bg noise,0
+70_it6.wav,70.wav,5,1,2m ,0 deg,silent room,0
+71_it1.wav,71.wav,4,2,4m,0 deg,silent room,0
+71_it2.wav,71.wav,4,2,4.61m,30 deg,silent room,0
+71_it3.wav,71_it1.wav,4,2,4m,0 deg,silent room,1
+71_it5.wav,71.wav,5,7,2m ,0 deg,room with bg noise,0
+71_it6.wav,71.wav,5,1,2m ,0 deg,silent room,0
+73_it1.wav,72.wav,4,2,4m,0 deg,silent room,0
+73_it2.wav,72.wav,4,2,4.61m,30 deg,silent room,0
+73_it3.wav,73_it1.wav,4,2,4m,0 deg,silent room,1
+73_it5.wav,73.wav,5,7,2m ,0 deg,room with bg noise,0
+73_it6.wav,73.wav,5,1,2m ,0 deg,silent room,0
+74_it1.wav,73.wav,4,2,4m,0 deg,silent room,0
+74_it2.wav,73.wav,4,2,4.61m,30 deg,silent room,0
+74_it3.wav,74_it1.wav,4,2,4m,0 deg,silent room,1
+74_it5.wav,74.wav,5,7,2m ,0 deg,room with bg noise,0
+74_it6.wav,74.wav,5,1,2m ,0 deg,silent room,0
+76_it1.wav,76.wav,4,2,4m,0 deg,silent room,0
+76_it2.wav,76.wav,4,2,4.61m,30 deg,silent room,0
+76_it3.wav,76_it1.wav,4,2,4m,0 deg,silent room,1
+76_it5.wav,76.wav,5,7,2m ,0 deg,room with bg noise,0
+76_it6.wav,76.wav,5,1,2m ,0 deg,silent room,0
+,,,,,,,
+77_it1.wav,77.wav,4,2,4m, 0 deg,silent room,0
+77_it2.wav,77.wav,4,2,4.61m,30 deg,silent room,0
+77_it3.wav,77_it1.wav,4,2,4m,0 deg,silent room,1
+77_it5.wav,77.wav,5,7,2m ,0 deg,room with bg noise,0
+77_it6.wav,77.wav,5,1,2m ,0 deg,silent room,0
+81_it1.wav,81.wav,4,2,4m,0 deg,room with bg noise,0
+81_it2.wav,81.wav,4,2,4.61m,30 deg,room with bg noise,0
+81_it3.wav,81.wav,5,6,2m ,0 deg,room with bg noise,0
+81_it4.wav,81.wav,5,1,2m ,0 deg,silent room,0
+81_it5.wav,81_it1.wav,4,2,4m,0 deg,silent room,1
+82_it1.wav,82.wav,4,2,4m,0 deg,silent troom,0
+82_it2.wav,82.wav,4,2,4m,30 deg,silent room,0
+82_it3.wav,81.wav,5,6,2m ,0 deg,room with bg noise,0
+82_it5.wav,82_it1.wav,4,2,4m,0 deg,silent room,1
+91_it1.wav,91.wav,4,2,4m,0 deg,room with bg noise,0
+91_it3.wav,91.wav,5,6,2m ,0 deg,room with bg noise,0
+91_it4.wav,91.wav,5,1,2m ,0 deg,silent room,0
+91_it5.wav,91_it1.wav,4,2,4m,0 deg,silent room,1
+92_it1.wav,92.wav,4,2,4m,0 deg,room with bg noise,0
+92_it2.wav,92.wav,4,2,4.61m,30 deg,room with bg noise,0
+92_it4.wav,92.wav,5,1,2m ,0 deg,silent room,0
+92_it5.wav,92_it1.wav,4,2,4m,0 deg,silent room,1
+93_it1.wav,93.wav,4,2,4m,0 deg,room with bg noise,0
+93_it2.wav,93.wav,4,2,4.61m,30 deg,room with bg noise,0
+93_it3.wav,93.wav,5,6,2m ,0 deg,room with bg noise,0
+93_it4.wav,93.wav,5,1,2m ,0 deg,silent room,0
+93_it5.wav,93_it1.wav,4,2,4m,0 deg,silent room,1
+96_it1.wav,96.wav,4,2,4m,0 deg,room with bg noise,0
+96_it2.wav,96.wav,4,2,4.61m,30 deg,room with bg noise,0
+96_it3.wav,96.wav,5,6,2m ,0 deg,room with bg noise,0
+96_it4.wav,96.wav,5,1,2m ,0 deg,silent room,0
+96_it5.wav,96_it1.wav,4,2,4m,0 deg,silent room,1
